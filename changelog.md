@@ -5,6 +5,6 @@
 
 Arquivos Inicias da primeira versão da Calculadora:
 
-index.html
-main.css
-script.js
+.index.html
+.main.css
+.script.js
